@@ -1,0 +1,287 @@
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+d:\bibliotecas\documents\visual studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\BLL.dll
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Entity.dll
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\BLL.pdb
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\bin\Debug\Entity.pdb
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\BLL.dll
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\Entity.dll
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\BLL.pdb
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\bin\Debug\Entity.pdb
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Bibliotecas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\Proyecto\Proyecto\bin\Debug\BLL.dll
+E:\Proyecto\Proyecto\bin\Debug\Entity.dll
+E:\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+E:\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+E:\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+E:\Proyecto\Proyecto\bin\Debug\BLL.pdb
+E:\Proyecto\Proyecto\bin\Debug\Entity.pdb
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+H:\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+H:\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+H:\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+H:\Proyecto\Proyecto\bin\Debug\BLL.dll
+H:\Proyecto\Proyecto\bin\Debug\Entity.dll
+H:\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+H:\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+H:\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+H:\Proyecto\Proyecto\bin\Debug\BLL.pdb
+H:\Proyecto\Proyecto\bin\Debug\Entity.pdb
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+F:\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+F:\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+F:\Proyecto\Proyecto\bin\Debug\BLL.dll
+F:\Proyecto\Proyecto\bin\Debug\Entity.dll
+F:\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+F:\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto\Proyecto\bin\Debug\BLL.pdb
+F:\Proyecto\Proyecto\bin\Debug\Entity.pdb
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+F:\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+H:\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+H:\Programacion III\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+H:\Programacion III\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+H:\Programacion III\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\BLL.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Entity.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\DAL.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\BLL.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\Entity.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Proyecto\bin\Debug\DAL.pdb
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.dll
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.dll
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.dll
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.pdb
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.pdb
+H:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.pdb
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+H:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.dll
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.dll
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.dll
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.pdb
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.pdb
+F:\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.pdb
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmLista.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+F:\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.pdb
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.pdb
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.pdb
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.mdf
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto_log.ldf
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Design.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\MetroFramework.Fonts.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\BLL.pdb
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\Entity.pdb
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\bin\Debug\DAL.pdb
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmAgregarProducto.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmBodega.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmFactura.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmPrincipal.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.FrmRegistro.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.ClienteService">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAACAAgAAAAAAAAAAACBAAAAQQAE=</HashCode>
+      <FileName>ClienteService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.ProductoService">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAABAAAAAAACAAgAAAAAIAIAAAAAAABAQAAE=</HashCode>
+      <FileName>ProductoService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.FacturaService">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAAQAAAAAAAAE=</HashCode>
+      <FileName>FacturaService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.AdministradorService">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAACAAgAAAAAAAAAAAgEAEAAAAAM=</HashCode>
+      <FileName>AdministradorService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.EmpleadoService">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQAAAAACBAgAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>EmpleadoService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

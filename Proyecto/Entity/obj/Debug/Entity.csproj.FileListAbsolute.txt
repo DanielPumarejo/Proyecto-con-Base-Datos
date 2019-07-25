@@ -1,0 +1,79 @@
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Entity\bin\Debug\Entity.dll
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Entity\bin\Debug\Entity.pdb
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Entity\obj\Debug\Entity.dll
+D:\Bibliotecas\Documents\Visual Studio 2015\Projects\Proyecto\Entity\obj\Debug\Entity.pdb
+D:\Bibliotecas\Desktop\Proyecto\Entity\bin\Debug\Entity.dll
+D:\Bibliotecas\Desktop\Proyecto\Entity\bin\Debug\Entity.pdb
+D:\Bibliotecas\Desktop\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+D:\Bibliotecas\Desktop\Proyecto\Entity\bin\Debug\MetroFramework.dll
+D:\Bibliotecas\Desktop\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+D:\Bibliotecas\Desktop\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Desktop\Proyecto\Entity\obj\Debug\Entity.dll
+D:\Bibliotecas\Desktop\Proyecto\Entity\obj\Debug\Entity.pdb
+F:\Proyecto\Entity\bin\Debug\Entity.dll
+F:\Proyecto\Entity\bin\Debug\Entity.pdb
+F:\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto\Entity\bin\Debug\MetroFramework.dll
+F:\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Proyecto\Entity\obj\Debug\Entity.dll
+F:\Proyecto\Entity\obj\Debug\Entity.pdb
+H:\Proyecto\Entity\bin\Debug\Entity.dll
+H:\Proyecto\Entity\bin\Debug\Entity.pdb
+H:\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+H:\Proyecto\Entity\bin\Debug\MetroFramework.dll
+H:\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+H:\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+H:\Proyecto\Entity\obj\Debug\Entity.dll
+H:\Proyecto\Entity\obj\Debug\Entity.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\obj\Debug\Entity.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\obj\Debug\Entity.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\bin\Debug\Entity.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\bin\Debug\Entity.pdb
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\bin\Debug\MetroFramework.dll
+C:\Users\Luis Ferney Rodas\Desktop\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.dll
+F:\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.pdb
+F:\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.dll
+F:\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.dll
+F:\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.pdb
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.dll
+D:\Bibliotecas\Desktop\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.pdb
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.pdb
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csproj.CopyComplete
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.dll
+G:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.pdb
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.dll
+F:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.pdb
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\Entity.pdb
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Design.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\bin\Debug\MetroFramework.Fonts.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.dll
+E:\Programacion de computadores 3\3ER corte\Proyecto con Base Datos\Proyecto\Entity\obj\Debug\Entity.pdb
